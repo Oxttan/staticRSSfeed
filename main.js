@@ -1,4 +1,4 @@
-const apiKey = 'ftukbsji3qqrpl4nwiftgmsh7c2inufrg1fabpi1';
+const apiKey = 'hvr6eeydxjtsdu93bxsbpmxr4gbte9dtt8khhmdl';
 const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=&api_key=${apiKey}`;
 const jsonConfigUrl = 'config.json';
 const keywordsUrl = 'keywords.json';
